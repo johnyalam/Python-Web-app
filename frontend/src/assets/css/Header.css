@@ -1,0 +1,20 @@
+/* Custom Navbar */
+.custom-navbar {
+    background-color: #333; /* Dark background for the Navbar */
+  }
+  
+  /* Custom Dropdown Title */
+  .custom-dropdown-title {
+    color: #ff5733; /* Custom color for dropdown title */
+  }
+  
+  /* Custom Dropdown Item */
+  .custom-dropdown-item {
+    color: #28a745; /* Green color for dropdown items */
+  }
+  
+  /* Custom Hover Effect for Items */
+  .custom-dropdown-item:hover {
+    color: #dc3545; /* Red color on hover */
+  }
+  

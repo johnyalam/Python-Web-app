@@ -1,0 +1,98 @@
+{
+    "title": "Digitally yours",
+    "brand": "Robust Binary",
+    "social_media": [
+      {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/feed/"
+      },
+      {
+        "title": "Whatsapp",
+        "link": "https://www.linkedin.com/feed/"
+      },
+      {
+        "title": "Linkedin",
+        "link": "https://www.linkedin.com/feed/"
+      },
+      {
+        "title": "Website",
+        "link": "https://www.robustbinary.com/"
+      }
+    ],
+    "objective": [
+      {
+        "heading": "Sustainable & Scalable Design",
+        "description": "Build future-proof, maintainable software."
+      },
+      {
+        "heading": "Reliable & Stable Solutions",
+        "description": "Deliver high-performance, bug-free products."
+      },
+      {
+        "heading": "Innovate & Improve",
+        "description": "Stay ahead with creativity and learning."
+      },
+      {
+        "heading": "Client-Centric Approach",
+        "description": "Align solutions with real business needs."
+      },
+      {
+        "heading": "Global Vision",
+        "description": "Create software that competes worldwide."
+      }
+    ],
+    "service_category": [
+      {
+        "category": "Fixed-term Contract",
+        "description": "Long-term projects with a defined timeline and scope."
+      },
+      {
+        "category": "One-time Project",
+        "description": "A single development task with a clear start and end."
+      },
+      {
+        "category": "Project Support",
+        "description": "Assisting ongoing projects with specific tasks."
+      },
+      {
+        "category": "Team Support",
+        "description": "Providing skilled developers to support in-house teams."
+      },
+      {
+        "category": "Retainer-based Clients",
+        "description": "Continuous maintenance, updates, and consulting."
+      }
+    ],
+    "project_type": [
+      "Website development",
+      "Restaurant",
+      "Hotel",
+      "Service",
+      "Gym",
+      "E-commerce",
+      "Mobile application",
+      "Android & iOS",
+      "Cloud support (AWS & Azure)",
+      "Graphics Design",
+      "Digital Marketing"
+    ],
+    "development_team": [
+      {
+        "country": "Finland",
+        "team": "Cloud (AWS/Azure), Web, App"
+      },
+      {
+        "country": "Bangladesh",
+        "team": "Web, App, Design, Machine Learning"
+      },
+      {
+        "country": "Germany",
+        "team": "Web, App"
+      },
+      {
+        "country": "Italy",
+        "team": "App (Android + iOS)"
+      }
+    ]
+  }
+  
